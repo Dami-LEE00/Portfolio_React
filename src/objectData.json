@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "img":"./img/person.jpg",
+    "title":"PORTFOLIO",
+    "type":"Personal Project",
+    "skills": [
+      "React",
+      "Javascript",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  },
+  {
+    "id": 1,
+    "img":"http://placeholder.com/375x750",
+    "title":"NETFLIX",
+    "type":"Personal Project",
+    "skills": [
+      "React",
+      "Redux",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  },
+  {
+    "id": 2,
+    "img":"http://placeholder.com/792x450",
+    "title":"HUGMOM",
+    "type":"Team Project",
+    "skills": [
+      "React",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  },
+  {
+    "id": 3,
+    "img":"http://placeholder.com/792x450",
+    "title":"NIKE",
+    "type":"Personal Project",
+    "skills": [
+      "React",
+      "Javascript",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  },
+  {
+    "id": 4,
+    "img":"http://placeholder.com/792x450",
+    "title":"MBTI",
+    "type":"Personal Project",
+    "skills": [
+      "React",
+      "Javascript",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  },
+  {
+    "id": 5,
+    "img":"http://placeholder.com/792x450",
+    "title":"DIARY",
+    "type":"Personal Project",
+    "skills": [
+      "React",
+      "Javascript",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  },
+  {
+    "id": 6,
+    "img":"http://placeholder.com/792x450",
+    "title":"TODOLIST",
+    "type":"Personal Project",
+    "skills": [
+      "React",
+      "Javascript",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  },
+  {
+    "id": 7,
+    "img":"http://placeholder.com/792x450",
+    "title":"CYWORLD",
+    "type":"Personal Project",
+    "skills": [
+      "React",
+      "Javascript",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  },
+  {
+    "id": 8,
+    "img":"http://placeholder.com/792x450",
+    "title":"TODAY'S MEALKIT",
+    "type":"Personal Project",
+    "skills": [
+      "React",
+      "Javascript",
+      "Styled-Components"
+    ],
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+  }
+]
+

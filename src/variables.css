@@ -1,0 +1,30 @@
+/* Noto Sans */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* Noto Sans Korean */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+/* ==== 변수 ==== */
+:root {
+  /* Font Family */
+  --primary-en: 'Noto Sans', sans-serif;
+  --primary-kr: 'Noto Sans KR', sans-serif;
+
+
+  /* Color */
+  --pink: #CCA4A6;
+  --darkpink: #B57E80 ;
+  --green: #647973;
+  --darkgreen: #314247;
+
+  /* Gray Color */
+  --black: #000000;
+  --darkblack: #333333;
+  --darkgray: #555555;
+  --gray: #777777;
+  --lightgray: #999999;
+  --ccc: #CCCCCC;
+  --ddd: #DDDDDD;
+  --eee: #EEEEEE;
+  --f7: #f7f7f7;
+  --white: #FFFFFF;
+}
