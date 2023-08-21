@@ -117,6 +117,9 @@ const WorksList = ({ item }) => {
   const handleGoWorksDetail = () => {
     navigate(`/worksdetail/:${item.id}`)
   }
+  const handleGoWorkSite = () => {
+    window.open(`${item.site}`);
+  }
   return (
     <InfoWrapper>
       <WorkImg>
@@ -141,7 +144,7 @@ const WorksList = ({ item }) => {
         </Details>
         <GoToSite>
           <FontAwesomeIcon className='faLink' icon={faLink} />
-          <span>사이트 바로가기</span>
+          <span onClick={handleGoWorkSite}>사이트 바로가기</span>
         </GoToSite>
       </ButtonsArea>
     </InfoWrapper>

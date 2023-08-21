@@ -68,7 +68,8 @@
       "Javascript",
       "Styled-Components"
     ],
-    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다."
+    "desc":"React와 styled-components를 이용해 만든 포트폴리오 입니다. 저에 대한 정보와 직접 만든 프로젝트들을 간편하게 볼 수 있는 반응형 웹입니다.",
+    "site": "https://calm-khapse-0b9c3c.netlify.app"
   },
   {
     "id": 6,
