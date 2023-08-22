@@ -21,6 +21,7 @@ const WorkImg = styled.div`
   height: 28.125rem;
   img {
     height: 100%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
   }
 `;
 const Info = styled.div`

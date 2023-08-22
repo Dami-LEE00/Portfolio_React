@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "img":"./img/person.jpg",
+    "img":"./img/Portfolio_react.png",
     "title":"PORTFOLIO",
     "type":"Personal Project",
     "skills": [
@@ -13,7 +13,7 @@
   },
   {
     "id": 1,
-    "img":"http://placeholder.com/375x750",
+    "img":"http://placeholder.com/719x450",
     "title":"NETFLIX",
     "type":"Personal Project",
     "skills": [
@@ -25,7 +25,7 @@
   },
   {
     "id": 2,
-    "img":"http://placeholder.com/792x450",
+    "img":"http://placeholder.com/719x450",
     "title":"HUGMOM",
     "type":"Team Project",
     "skills": [
@@ -36,7 +36,7 @@
   },
   {
     "id": 3,
-    "img":"http://placeholder.com/792x450",
+    "img":"http://placeholder.com/719x450",
     "title":"NIKE",
     "type":"Personal Project",
     "skills": [
@@ -48,7 +48,7 @@
   },
   {
     "id": 4,
-    "img":"http://placeholder.com/792x450",
+    "img":"./img/MBTI.png",
     "title":"MBTI",
     "type":"Personal Project",
     "skills": [
@@ -60,7 +60,7 @@
   },
   {
     "id": 5,
-    "img":"http://placeholder.com/792x450",
+    "img":"http://placeholder.com/719x450",
     "title":"DIARY",
     "type":"Personal Project",
     "skills": [
@@ -73,7 +73,7 @@
   },
   {
     "id": 6,
-    "img":"http://placeholder.com/792x450",
+    "img":"http://placeholder.com/719x450",
     "title":"TODOLIST",
     "type":"Personal Project",
     "skills": [
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "img":"http://placeholder.com/792x450",
+    "img":"http://placeholder.com/719x450",
     "title":"CYWORLD",
     "type":"Personal Project",
     "skills": [
@@ -97,7 +97,7 @@
   },
   {
     "id": 8,
-    "img":"http://placeholder.com/792x450",
+    "img":"http://placeholder.com/719x450",
     "title":"TODAY'S MEALKIT",
     "type":"Personal Project",
     "skills": [

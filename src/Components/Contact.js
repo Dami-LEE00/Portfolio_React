@@ -167,7 +167,7 @@ const Contact = () => {
             <div className='github'>
               <div className='contactType'>GITHUB</div>
               <div className='info'>
-                <a href='https://github.com/Dami-LEE00'>
+                <a href='https://github.com/Dami-LEE00' target='_blank'>
                   <span>Dami-LEE00</span>
                   <AnimatedFontAwesomeIcon className='faArrowRight' icon={faArrowRight} /> 
                 </a>
@@ -176,7 +176,7 @@ const Contact = () => {
             <div className='blog'>
               <div className='contactType'>BLOG</div>
               <div className='info'>
-                <a href='https://velog.io/@ecch74'>
+                <a href='https://velog.io/@ecch74' target='_blank'>
                   <span>VELOG</span>
                   <AnimatedFontAwesomeIcon className='faArrowRight' icon={faArrowRight} /> 
                 </a>

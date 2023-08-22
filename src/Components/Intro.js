@@ -90,9 +90,9 @@ const Intro = () => {
       <About />
       <Works />
       <Contact />
-      <ScrollTop onClick={scrollToTop}>
+      {/* <ScrollTop onClick={scrollToTop}>
         <FontAwesomeIcon className='faSquareCaretUp' icon={faCaretUp} />
-      </ScrollTop>
+      </ScrollTop> */}
     </Container>
   )
 }
