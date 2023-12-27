@@ -153,7 +153,7 @@ const Contact = () => {
             <div>저와 연락하고 싶으시거나 협업에 관심이 있으시다면 언제든 연락 주세요 :D</div>
             <div>함께 일하고 싶은 개발자로서 새로운 아이디어를 공유하며 다양한 프로젝트에 참여하고 싶습니다.</div>
           </Desc>
-          <Email href='mailto:ecch74@naver.com'>ecch74@naver.com</Email>
+          <Email href='mailto:dxmxxii@gmail.com'>dxmxxii@gmail.com</Email>
           <ContactInfo>
             <div className='phone'>
               <div className='contactType'>PHONE</div>
